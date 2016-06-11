@@ -1,4 +1,4 @@
-###效果图：https://github.com/Easyzhan/LauchImageAnimation/blob/master/dongxiao.gif
+###效果图：
 ![image](https://github.com/Easyzhan/LauchImageAnimation/blob/master/dongxiao.gif)
 # LauchImageAnimation
 启动图的动效设计
