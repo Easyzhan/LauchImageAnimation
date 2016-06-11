@@ -1,3 +1,5 @@
+###效果图：https://github.com/Easyzhan/LauchImageAnimation/blob/master/dongxiao.gif
+![image](https://github.com/Easyzhan/LauchImageAnimation/blob/master/dongxiao.gif)
 # LauchImageAnimation
 启动图的动效设计
 ###是不是觉得启动图需要动画了呢
